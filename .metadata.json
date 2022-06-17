@@ -1,0 +1,14 @@
+[
+  {
+    "package": "catsim",
+    "oncran": true
+  },
+  {
+    "package": "CholWishart",
+    "oncran": true
+  },
+  {
+    "package": "MixMatrix",
+    "oncran": true
+  }
+]
