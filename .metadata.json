@@ -6,5 +6,9 @@
   {
     "package": "CholWishart",
     "oncran": true
+  },
+  {
+    "package": "MixMatrix",
+    "oncran": true
   }
 ]
