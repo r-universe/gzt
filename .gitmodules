@@ -8,13 +8,13 @@
 	url = https://github.com/gzt/catsim
 	shallow = true
 	registered = true
-[submodule "CholWishart"]
-	path = CholWishart
-	url = https://github.com/gzt/cholwishart
-	shallow = true
-	registered = true
 [submodule "MixMatrix"]
 	path = MixMatrix
 	url = https://github.com/gzt/mixmatrix
+	shallow = true
+	registered = true
+[submodule "CholWishart"]
+	path = CholWishart
+	url = https://github.com/gzt/cholwishart
 	shallow = true
 	registered = true
