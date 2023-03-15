@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "MixMatrix",
+    "package": "CholWishart",
     "oncran": true
   },
   {
-    "package": "CholWishart",
+    "package": "MixMatrix",
     "oncran": true
   }
 ]
