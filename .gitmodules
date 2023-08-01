@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "catsim"]
-	path = catsim
-	url = https://github.com/gzt/catsim
 [submodule "CholWishart"]
 	path = CholWishart
 	url = https://github.com/gzt/cholwishart
 [submodule "MixMatrix"]
 	path = MixMatrix
 	url = https://github.com/gzt/mixmatrix
+[submodule "catsim"]
+	path = catsim
+	url = https://github.com/gzt/catsim
